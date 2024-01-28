@@ -14,7 +14,7 @@ if my_condition:
     print("my_condition is trrrrrue")
 
 if my_condition >= 9 :
-    print("my_condition is equal to or bigger than 9")
+    print("my_condition is equal to or greater than 9")
 
 if my_condition < 10 :
     print("my_condition is smaller than 10")
@@ -28,7 +28,7 @@ else:
 
 
 if my_condition > 9 and my_condition < 20 :
-    print("is bigger than 9 and smaller than 20")
+    print("is greater than 9 and smaller than 20")
 
 my_condition = False
 

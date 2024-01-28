@@ -10,7 +10,7 @@ while my_condition < 10 :
 # elif my_condition == 10 :
 # print("my_condition is == to 10")
 else:
-    print("my_condition is equal to, or bigger than 10 ")
+    print("my_condition is equal to, or greater than 10 ")
 
 print("the condition no longer applies")
 
