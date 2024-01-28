@@ -1,0 +1,21 @@
+{
+  "name": "Rodrigo L\u00f3pez Soria",
+  "occupation": "Web Developer",
+  "age": "30",
+  "website": "https://rodrigolopez.netlify.app/",
+  "stack": [
+    "JavaScript",
+    "Node",
+    "React",
+    "HTML",
+    "CSS",
+    "Express",
+    "Github",
+    "MongoDB",
+    "Docker",
+    "Terraform",
+    "Ansible",
+    "Prometheus",
+    "Grafana"
+  ]
+}
