@@ -1,0 +1,13 @@
+fastapi
+python-jose
+passlib
+pymongo
+python-multipart
+
+
+# to deploy on deta install it, i get this error = 
+# $ curl -fsSL https://get.deta.dev/space-cli.sh | sh
+# curl: (35) schannel: next InitializeSecurityContext failed: Unknown error (0x80092012) 
+# - La funci▒n de revocaci▒n no puede comprobar la revocaci▒n para el certificado.
+
+# here is the video to continue the deployment https://www.youtube.com/watch?v=_y9qQZXE24A&list=WL&index=4&t=20486s
